@@ -11,3 +11,4 @@ json5
 jsonpointer
 jsonschema
 jsonschema-specifications
+gunicorn
